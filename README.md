@@ -35,8 +35,8 @@ I'm Madhukar, a Software Engineer working across backend services, cloud infrast
 ---
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=maddymz&show_icons=true&theme=default&hide_border=true&count_private=true" height="165" alt="Madhukar's GitHub stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maddymz&layout=compact&theme=default&hide_border=true" height="165" alt="Top languages"/>
+  <img src="github-readme-stats-rosy-alpha-44.vercel.app/api?username=maddymz&show_icons=true&theme=default&hide_border=true&count_private=true" height="165" alt="Madhukar's GitHub stats"/>
+  <img src="github-readme-stats-rosy-alpha-44.vercel.app/api/top-langs/?username=maddymz&layout=compact&theme=default&hide_border=true" height="165" alt="Top languages"/>
 </div>
 
 <div align="center">
