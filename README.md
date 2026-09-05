@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:3A0000,100:C1121F&height=150&section=header&text=Madhukar%20Raj&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:3A0000,100:C1121F&height=150&section=header&text=Madhukar%20Raj&fontSize=42&fontColor=ffffff&fontFamily=Roboto&animation=fadeIn&fontAlignY=38" width="100%"/>
 
-### Software Engineer — Backend Systems & Agentic AI
+### Software Engineer
 
 </div>
 
