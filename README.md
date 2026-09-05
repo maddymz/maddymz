@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2E3192,100:1BFFFF&height=150&section=header&text=Madhukar%20Raj&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:3A0000,100:C1121F&height=150&section=header&text=Madhukar%20Raj&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38" width="100%"/>
 
 ### Software Engineer — Backend Systems & Agentic AI
 
@@ -35,12 +35,11 @@ I'm Madhukar, a Software Engineer working across backend services, cloud infrast
 ---
 
 <div align="center">
-  <img src="github-readme-stats-rosy-alpha-44.vercel.app/api?username=maddymz&show_icons=true&theme=default&hide_border=true&count_private=true" height="165" alt="Madhukar's GitHub stats"/>
-  <img src="github-readme-stats-rosy-alpha-44.vercel.app/api/top-langs/?username=maddymz&layout=compact&theme=default&hide_border=true" height="165" alt="Top languages"/>
+  <img src="https://githubcard.com/maddymz.svg" alt="Madhukar's GitHub stats"/>
 </div>
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1BFFFF,100:2E3192&height=100&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:C1121F,50:3A0000,100:000000&height=100&section=footer" width="100%"/>
 
 </div>
